@@ -102,8 +102,8 @@ oppia-learner-dashboard-page .oppia-svg-image {
 }
 
 .oppia-learner-dashboard-side-content {
-  min-width: 241px;
-  padding-left: 100px;
+  min-width: 250px;
+  padding-left: 75px;  
   width: 20%;
 }
 
